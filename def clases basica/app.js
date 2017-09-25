@@ -1,4 +1,4 @@
-var Avenger = /** @class */ (function () {
+var Avenger = (function () {
     function Avenger(nombre, equipo, nombreReal) {
         this.nombre = "Sin nombre";
         this.equipo = undefined;

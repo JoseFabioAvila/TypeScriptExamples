@@ -7,7 +7,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 function consola(constructor) {
     console.log(constructor);
 }
-var Villano = /** @class */ (function () {
+var Villano = (function () {
     function Villano(nombre) {
         this.nombre = nombre;
     }
